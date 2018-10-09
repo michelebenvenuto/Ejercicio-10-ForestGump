@@ -1,0 +1,1 @@
+abstract class Candy(name: String)
